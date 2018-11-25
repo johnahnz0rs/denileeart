@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 
 
 // require j00r database
-require('./server/config/database.js');
+// require('./server/config/database.js');
 
 
 // serve react files from 'dist' directory

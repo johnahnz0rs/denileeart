@@ -18,7 +18,7 @@ class Home extends React.Component {
 
             <div className="">
 
-
+                <p>lol this is denileeart</p>
 
             </div>
 
