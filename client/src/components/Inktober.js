@@ -57,8 +57,10 @@ class Inktober extends React.Component {
         return (<React.Fragment>
             <div className="" style={{}}>
 
-                <h3 className="mb-5" style={{padding: '40px'}}>Inktober 2018</h3>
-
+                <div className="mb-3" style={{padding: '30px'}}>
+                    <h3 className="mb-1">Inktober 2018</h3>
+                    <p>(click thumbnail for full view)</p>
+                </div>
 
                 {/* THUMBNAILS */}
                 {/*4*/}

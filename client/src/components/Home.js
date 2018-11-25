@@ -110,8 +110,8 @@ class Home extends React.Component {
 
                     {/* nav */}
                     <div className="col-12" style={{}}>
-                        <div className="d-inline-block mr-5" style={{verticalAlign: 'middle'}}>
-                            <img className="d-block mb-3" style={{width: '70px', paddingTop: '10px'}} src={DeniBrand} alt="Denique Rene Lee" />
+                        <div className="d-inline-block mr-3" style={{verticalAlign: 'middle'}}>
+                            <img className="d-block mb-3" style={{width: '70px', paddingTop: '20px'}} src={DeniBrand} alt="Denique Rene Lee" />
                             {/*<p className="font-weight-bold mb-5">Deni Rene Lee</p>*/}
                         </div>
 
